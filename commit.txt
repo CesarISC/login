@@ -1,0 +1,5 @@
+commit 1ab2af9364ce1ab303f4eea7f7c593f65d6e40ab
+Author: Cesar Garcia <isc.cesar.sistemas@gmail.com>
+Date:   Tue Aug 27 21:41:32 2019 -0500
+
+    Primer avance para el login con roles y permisos de usuario
